@@ -31,9 +31,4 @@ XGBoost: ~93% accuracy
 # Run the Script
 python disease_prediction.py
 
-# Installation
-
-Clone the repository and install dependencies:
-
-git clone https://github.com/<your-username>/<repo-name>.git
 
