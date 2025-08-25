@@ -36,5 +36,4 @@ python disease_prediction.py
 Clone the repository and install dependencies:
 
 git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
-pip install -r requirements.txt
+
